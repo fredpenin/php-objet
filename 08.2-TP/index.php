@@ -21,32 +21,6 @@
     $europa->getCapitals();
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-    /////////////////// Traitement du fichier CSV pour le convertir en tableau de tableaux ////////////
-    // $file = "users.csv";
-    // $fileContents = file_get_contents ($file);
-
-    // $users = explode("\n", $fileContents);
-
-    // //var_dump($users);
-
-    // $usersArray = [];
-    // foreach($users as $user){
-    //     $line = explode(";", $user);
-    //     array_push($usersArray, $line);
-    // }
-
     ?>
 
 
